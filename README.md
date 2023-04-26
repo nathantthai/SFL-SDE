@@ -10,3 +10,7 @@
 
  - Pandas
  - pymongo
+
+## Switch to nbviewer
+
+Sometimes, Github does not render nb file correctly, and it is a known bug. We can grab the Github's URL of the main.ipynb and go over to nbviewer.org to view the notebook.
