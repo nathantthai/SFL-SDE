@@ -1,5 +1,9 @@
 # SFL Scientific - SDE Evaluation
 
+# Instruction
+
+**main.ipynb** contains everything from Google Colab. It is written in an interactive code-based format. There is a button at the top **Open in Colab**, which can bring the notebook to Google Colab where the code can be executed. In that event,  **.csv**, provided data, and **.pem**, key to MongoDB, must be uploaded and url must be provided to section 2, **path_to_certificate** and **csv_url**.
+
 # Files
 
  - **main.ipynb**, consists section 1-3
