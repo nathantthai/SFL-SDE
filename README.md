@@ -10,6 +10,14 @@
 
  - Pandas
  - pymongo
+ - lightning
+ - torch
+ - json
+ - torchmetrics
+ - torchvision
+ - attrdict
+ - tritonclient
+ - numpy
 
 ## Switch to nbviewer
 
